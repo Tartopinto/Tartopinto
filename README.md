@@ -41,11 +41,12 @@ I have authored 4 peer-reviewed articles in prestigious journals like *Physical 
 
 
 ## 🛠️ Featured Projects
-Work in progress...
-```
+Coming soon...
+<!---
+* **[Progetto 1]**: Descrizione...
 * **[Main Research Codebase]**: [C library for stochastic integration]
 * **[SciML Applications]**: [Pytorch projects]
-```
+-->
 
 ---
 
