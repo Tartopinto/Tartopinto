@@ -39,10 +39,13 @@ I have authored 4 peer-reviewed articles in prestigious journals like *Physical 
 
 ---
 
-% TODO
-%## 🛠️ Featured Projects
-%* **[Main Research Codebase]**: [C library for stochastic integration]
-%* **[SciML Applications]**: [Pytorch projects]
+
+## 🛠️ Featured Projects
+Work in progress...
+```
+* **[Main Research Codebase]**: [C library for stochastic integration]
+* **[SciML Applications]**: [Pytorch projects]
+```
 
 ---
 
