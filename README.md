@@ -6,8 +6,8 @@ I am a **Computational Physicist** with 5+ years of experience in developing lar
 ---
 
 ## 🚀 Quick Overview
-- 🔭 **Current Activity**: Postdoctoral Researcher at Sapienza University of Rome, designing and implementing simulations of physical models in C.
-- 🧠 **Interests**: Physics-Informed Neural Networks (PINNs), stochastic and non-equilibrium systems, and High-Performance Computing (HPC).
+- 🔭 **Current Activity**: Postdoctoral Researcher at Sapienza University of Rome, analysing data of living systems.
+- 🧠 **Interests**: Physics-Informed Neural Networks (PINNs), computational physics, stochastic and non-equilibrium systems, and High-Performance Computing (HPC).
 - 🌍 **Background**: International research experience across Italy (Sapienza), Germany (Max Planck Institute), and France (CEA Paris-Saclay).
 - 🎓 **Education**: Double Degree in Theoretical Physics and Mathematical Modeling for Engineering.
 
@@ -46,19 +46,19 @@ I have authored 4 peer-reviewed articles in prestigious journals like *Physical 
 ---
 
 ## 📈 GitHub Stats
-![Giordano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giordanofausti&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanofausti&layout=compact&theme=radical)
+![Giordano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tartopinto&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tartopinto&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/giordanofausti/)
 - 📧 [Email](mailto:fausti.giordano@gmail.com)
-- 📍 Rome, Italy
+- 📍 Brescia, Italy
 
 ---
 
 ## 🧩 Beyond the Code
-- 🥋 **Martial Arts**: Practitioner of Judo, Kudo, Karate, and Jujitsu.
+- 🥋 **Martial Arts**: Judo practitioner.
 - 📸 **Creative**: Passionate about photography, video editing, and drawing.
-- 🩸 **Values**: Regular blood donor and advocate for collaborative environments.
+
