@@ -39,15 +39,10 @@ I have authored 4 peer-reviewed articles in prestigious journals like *Physical 
 
 ---
 
-## 🛠️ Featured Projects
-* **[Main Research Codebase]**: [Description of your C library for stochastic integration. Example: "A high-performance framework for simulating 1D density field equations."]
-* **[SciML Applications]**: [Placeholder for your new projects. Example: "Neural network surrogates for active matter phase transitions."]
-
----
-
-## 📈 GitHub Stats
-![Giordano's GitHub stats](https://github-readme-stats.vercel.app/api?username=tartopinto&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tartopinto&layout=compact&theme=radical)
+% TODO
+%## 🛠️ Featured Projects
+%* **[Main Research Codebase]**: [C library for stochastic integration]
+%* **[SciML Applications]**: [Pytorch projects]
 
 ---
 
