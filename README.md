@@ -5,6 +5,14 @@ I am a **Computational Physicist** with 5+ years of experience in developing lar
 
 ---
 
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/95accadf-16dd-4013-a30d-50dce58d311f alt="Active Matter Simulation" width="600px">
+  <br>
+  <em> Numerical integration of 2D density field equations using pseudo-spectral schemes.</em>
+</p>
+
+---
+
 ## 🚀 Quick Overview
 - 🔭 **Current Activity**: Postdoctoral Researcher at Sapienza University of Rome, analysing data of living systems.
 - 🧠 **Interests**: Physics-Informed Neural Networks (PINNs), computational physics, stochastic and non-equilibrium systems, and High-Performance Computing (HPC).
@@ -15,21 +23,9 @@ I am a **Computational Physicist** with 5+ years of experience in developing lar
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="[assets/simulazione.gif](https://github.com/user-attachments/assets/5685be70-53a5-4b6e-aa85-c4ebf8c71a8a)" alt="Active Matter Simulation" width="600px">
-  <br>
-  <em> Numerical integration of 2D density field equations using pseudo-spectral schemes.</em>
-</p>
-
-
-
 ### 💻 Programming & HPC
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-
-
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - **Parallel Computing**: OpenMP (achieved up to **10x computational speedup**).
 - **Data Processing**: Expert in managing and analyzing datasets exceeding **1 TB** using AWK, Python, and Bash.
